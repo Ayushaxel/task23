@@ -9,7 +9,7 @@ const Home = () => {
 
     <div className="right">
       <div className='rightDiv'>
-        <img className='rightDiv-img' src="https://cdn.britannica.com/10/241010-049-3EB67AA2/highest-mountains-of-the-world-on-each-continent.jpg" alt="image" />
+        <img className='rightDiv-img' src="https://tse4.mm.bing.net/th?id=OIP.1d6tBbNiJTFQNEK_k0sSjQHaFj&pid=Api&P=0&h=180" alt="image" />
         <h1>Dasboard</h1>
         <h4 style={{marginTop: "10px"}}>The description</h4>
         <p style={{marginTop: "10px"}}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus non ipsum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel consectetur numquam dignissimos. Aliquid est expedita atque cumque exercitationem accusamus, nostrum beatae laborum veritatis dicta consectetur omnis repudiandae magnam ducimus accusantium non delectus, reprehenderit nemo! Deserunt ex illum dignissimos repellat laborum? quia, nulla natus molestiae animi consequuntur eum vitae explicabo tempore, reprehenderit dolorum possimus obcaecati praesentium eius ab tempora? Iure.</p>

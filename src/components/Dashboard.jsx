@@ -6,7 +6,7 @@ const Dashboard = () => {
       
       <div className="left">
           <div className='left-card'>
-            <img src="https://pngimg.com/uploads/pencil/pencil_PNG3858.png" alt="image" />
+            <img src="https://tse4.mm.bing.net/th?id=OIP.yCz6niS7EhWlhFWvqaXhqQHaEK&pid=Api&P=0&h=180" alt="image" />
             <h1>Pencils</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, possimus!</p>
           </div>
